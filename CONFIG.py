@@ -1,4 +1,4 @@
-LOGIN = 'ex3metv@yandex.ru'
-PASSWORD = 'Snaqper1001FDK'
+LOGIN = 'your_email'
+PASSWORD = 'your_password'
 ATTEMPS = 5
 PAGES = 10
